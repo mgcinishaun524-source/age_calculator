@@ -15,10 +15,7 @@ print(a,b, "you are " + str(2026 - int(c)) + " years old")
 
 
 
-#for i in range (5):
-    #for j in range(5):
-        #print(i, j)
-    #print (i)
+
 
 
     
